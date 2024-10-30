@@ -1,9 +1,8 @@
-<h1>Hi, Manraj!</h1>
+<h1>Hi,I am Manraj!</h1>
 
 <h2>👨‍💻 Software Development</h2>
 
 - <b>Data Structures and Algorithms</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2></h2>
 
